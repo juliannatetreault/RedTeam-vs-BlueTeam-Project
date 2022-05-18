@@ -1,6 +1,6 @@
 # Red Team vs. Blue Team (Pen-Testing) Project
 
-Built using Microsoft Azure, this project consists of 4 VMs, including an vulnerable machine, a Kali Linux machine, an ELK Stack machine, and a HyperV machine, to carry out a reverse shell exploit, followed by a comprehensive report including a hardening solution for the vulnerable machine.
+Built using Microsoft Azure, this project consists of 4 VMs, including an vulnerable machine, a Kali Linux machine, an ELK Stack machine, and a HyperV machine, to carry out a reverse shell exploit, followed by a comprehensive report including a hardening recommendation for the vulnerable machine.
 
 This project focused on using the following skills to first exploit a system and then write a report for the exploited system:
 
